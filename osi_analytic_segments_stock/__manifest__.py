@@ -7,7 +7,7 @@
     "summary": "Additional segments for analytic accounts for Stock",
     "author": "Open Source Integrators",
     "maintainer": "Open Source Integrators",
-    "website": "http://www.opensourceintegrators.com",
+    "website": "https://www.opensourceintegrators.com",
     "category": "Analytic Accounting",
     "depends": [
         "stock_account",
